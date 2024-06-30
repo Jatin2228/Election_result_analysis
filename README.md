@@ -33,3 +33,8 @@ The chart shows the total votes received by the leading candidates from differen
 States: Andaman & Nicobar Islands, Andhra Pradesh, Assam, Bihar, Chandigarh, Dadra & Nagar Haveli, Goa, Gujarat, Haryana, etc.
 Votes range from approximately 200K to 800K.
 This dashboard provides a comprehensive view of the election results, including total constituencies, winning margins, leading candidates by votes, party-wise seat distribution, and state-wise winning parties.
+
+LINK : https://public.tableau.com/shared/P9Y2X9MHG?:display_count=n&:origin=viz_share_link
+
+
+Hope you liked it.
